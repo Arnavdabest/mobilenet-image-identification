@@ -1,0 +1,56 @@
+#header_div{
+   background: white;
+   font-size: 40px; 
+   top: 0;
+   font-family:cursive;
+}
+#header_div img{
+    width: 80px;
+}
+body{
+    background-color: tomato;
+}
+.main_div{
+    background-color: teal;
+    margin-top: 15px;
+    border: 3px solid whitesmoke; 
+}
+
+#camera, #results{
+    border: 3px solid whitesmoke;
+    width: 320px;
+    height: 300px;
+    box-shadow: 5px 5px 17px white;
+    margin: 10px;
+}
+
+label{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 5px 5px 17px white;
+}
+
+#blub{
+    width: 100px;
+}
+
+.prediction{
+    margin-bottom: 50px;
+}
+
+.prediction h4{
+    background: white;
+    padding: 5px;
+    box-shadow: 5px 5px 17px whitesmoke;
+    float: left;
+    width: 40%;
+    font-family: fantasy;
+}
+
+.copyright{
+    background-color: yellow;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+}
